@@ -170,7 +170,7 @@ export default function Skill() {
               <Timeline>
                 <TimelineItem>
                   <TimelineOppositeContent color="text.secondary">
-                    02/2024- current
+                    01/2018- 09/2019
                   </TimelineOppositeContent>
                   <TimelineSeparator>
                     <div className="dot-circle">
@@ -183,26 +183,38 @@ export default function Skill() {
                     <TimelineConnector />
                   </TimelineSeparator>
                   <TimelineContent>
-                    <div className="company-name">Restate Homes Mortgage</div>
+                    <div className="company-name">Cority</div>
                     <div className="company-detail">
-                      <div className="position">Full Stack Developer</div>
-                      <div className="location">San Jose, CA</div>
+                      <div className="position">QA Engineer</div>
+                      <div className="location">Toronto, Canada Area</div>
                     </div>
                     <ul className="bullets">
                       <li className="bullet">
-                        Integrated OpenAI API to automate the extraction of
-                        pertinent information from client documents, enhancing
-                        data processing efficiency and accuracy.
+                        Defined, executed, and maintained manual testing on
+                        Occupational Health, Safety, Environmentalsuites in the
+                        application
                       </li>
                       <li className="bullet">
-                        Analyzing and computing essential data derived from
-                        documents using OpenAI API, facilitating data-driven
-                        decision-making processes
+                        Automated a subset of the manual and regression test
+                        cases using Selenium WebDriver with C# and Java in
+                        Visual Studio
                       </li>
                       <li className="bullet">
-                        Utilized programming skills in JavaScript and React
-                        framework to create dynamic web pages with real-time
-                        data visualization of extracted and computed data.
+                        Executed API testing using SOAPUI and Postman
+                      </li>
+                      <li className="bullet">
+                        Collaborated with product management and development
+                        teams to address defects and ensured resolution of
+                        problems
+                      </li>
+                      <li className="bullet">
+                        Communicated, managed and reported bugs effectively on
+                        JIRA in order to achieve appropriate bug fix
+                      </li>
+                      <li className="bullet">
+                        Analyzed stories, test cases with Software Architect,
+                        Product Manager and Developer in Sprint planning and
+                        story review meetings
                       </li>
                     </ul>
                   </TimelineContent>
@@ -222,45 +234,56 @@ export default function Skill() {
                     <TimelineConnector />
                   </TimelineSeparator>
                   <TimelineContent>
-                    <div className="company-name">Innoworld Inc</div>
+                    <div className="company-name">
+                      Knowledge First Financial
+                    </div>
                     <div className="company-detail">
-                      <div className="position">
-                        FrontEnd Developer (Internship)
-                      </div>
-                      <div className="location">Redwood City, CA</div>
+                      <div className="position">QA Analyst</div>
+                      <div className="location">Mississauga, Canada Area</div>
                     </div>
                     <ul className="bullets">
                       <li className="bullet">
-                        Designed and developed a full-stack web application for
-                        retail small business with features including user
-                        management, product order and payment using MERN stack.
-                        Designed and implemented RESTful APIs, mapping HTTP
-                        methods for efficient and reusable routes, with CRUD
-                        actions on MongoDB using Node.js.
+                        Wrote test plan, test cases, test result report and bug
+                        report in Excel and Word; maintained well-organized
+                        records on SharePoint
                       </li>
                       <li className="bullet">
-                        Constructed MongoDB databases for user and order related
-                        data and created data models with Mongoose and data
-                        validation to prevent errors. Implemented JWT-based user
-                        authentication and secured validation for
-                        client-submitted data, and addressed password encryption
-                        for user registration under Node.js.
+                        Participated in daily standup Scrum meeting with all the
+                        project team members regarding to test estimates and
+                        resources scheduling
                       </li>
                       <li className="bullet">
-                        Utilized JavaScript within the React framework to
-                        implement dynamic client-side pages with reusable
-                        components including (navigation, navlink, comment bar,
-                        etc.).
+                        Gained good knowledge of automation test scripts
+                        execution using Visual Studio and Selenium WebDriver for
+                        Web application
                       </li>
                       <li className="bullet">
-                        Utilized React Hooks to manage component state and
-                        lifecycle in functional components; optimized rendering
-                        performance with useCallback, reduce response time by 8%
+                        Executed system functionality test cases against
+                        database using SQL scripts to initialize database and
+                        manipulate data
+                      </li>
+                      <li className="bullet">
+                        Performed Integration Testing, System Testing,
+                        Regression Testing and UAT Testing
+                      </li>
+                      <li className="bullet">
+                        Executed system functionality test cases against
+                        database using SQL scripts to initialize database and
+                        manipulate data
+                      </li>
+                      <li className="bullet">
+                        Collaborated with Developer, BA, Project Manager, QA
+                        manager and business user and managed bugs in TFS
+                        regarding to found issues
+                      </li>
+                      <li className="bullet">
+                        Acted as advisor and mentor for junior members of the
+                        team
                       </li>
                     </ul>
                   </TimelineContent>
                 </TimelineItem>
-                <TimelineItem>
+                {/* <TimelineItem>
                   <TimelineOppositeContent color="text.secondary">
                     08/2020 - 08/2022
                   </TimelineOppositeContent>
@@ -303,7 +326,7 @@ export default function Skill() {
                       </li>
                     </ul>
                   </TimelineContent>
-                </TimelineItem>
+                </TimelineItem> */}
               </Timeline>
             </div>
           </div>

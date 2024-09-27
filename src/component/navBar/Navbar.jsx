@@ -46,8 +46,8 @@ export default function Navbar() {
   return (
     <div className="navbar">
       <div className="top-nav">
-        <a href="/home" className="home-logo">
-          <div className="home-name">Eris Zoneee</div>
+        <a href="#" className="home-logo">
+          <div className="home-name">Zhuo Zone</div>
         </a>
         <ul className="top-nav-list">
           {/* when clicked, first link to /,then execute scrollToSection */}
@@ -78,7 +78,7 @@ export default function Navbar() {
       </div>
       <div className="side-nav">
         <div className="left-nav">
-          <a href="https://www.linkedin.com/in/erisxie" target="_blank">
+          <a href="https://www.linkedin.com/in/zhuochen777" target="_blank">
             <div className="socialMedia-link">
               <img
                 src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif"
@@ -87,7 +87,7 @@ export default function Navbar() {
               />
             </div>
           </a>
-          <a href="https://www.linkedin.com/in/erisxie" target="_blank">
+          <a href="https://github.com/zhuochen777" target="_blank">
             <div className="socialMedia-link">
               <img
                 src="https://cdn.dribbble.com/userupload/2608299/file/original-00f24643a2c18bc04251f7a2019d4743.gif"

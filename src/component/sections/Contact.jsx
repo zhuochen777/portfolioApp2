@@ -17,7 +17,7 @@ export default function Contact() {
                     className="contact-logo-img"
                   />
                 </div>
-                <div className="button-name">erisxie.xie@gmail.com</div>
+                <div className="button-name">zhuochen777@gmail.com</div>
               </div>
               <div className="contact-button">
                 <div className="contact-logo">
@@ -27,7 +27,7 @@ export default function Contact() {
                     className="contact-logo-img"
                   />
                 </div>
-                <div className="button-name">+1 (669) - 256- 3323</div>
+                <div className="button-name">+1 (669) - 278- 4839</div>
               </div>
             </div>
             <form className="contact-form">

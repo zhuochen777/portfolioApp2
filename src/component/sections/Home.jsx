@@ -1,5 +1,6 @@
 import React from "react";
 import "../../style/style.scss";
+import portrait from "../../images/portrait.png";
 
 export default function Home() {
   return (
@@ -11,7 +12,7 @@ export default function Home() {
               <div className="hello">👋</div>
               <div className="intro-detail">
                 <div className="detail-top">Hello, I am</div>
-                <div className="detail-bottom">Eris</div>
+                <div className="detail-bottom">Zhuo</div>
               </div>
             </div>
             <ul className="intro-bottom">
@@ -24,14 +25,16 @@ export default function Home() {
           </div>
         </div>
         <div className="portrait">
-          <img
-            src="https://erisportfolio.netlify.app/static/media/Formal_nobackg.5549f4978e5dc4dba4fa.jpg"
-            alt="eris-img"
-            className="portrait-img"
-          />
+          <div>
+            <img
+              src={portrait}
+              alt="zhuo-img"
+              className="portrait-img"
+            />
+          </div>
           <img
             src="https://erisportfolio.netlify.app/static/media/circle.2c5eeaff4fd997ef8350.jpg"
-            alt="eris-img-bg"
+            alt="zhuo-img-bg"
             className="portrait-bg"
           />
         </div>
