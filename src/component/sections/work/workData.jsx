@@ -3,9 +3,9 @@
 export const workData = [
   {
     id: 1,
-    webLink: "https://salinakaapp-project3.netlify.app/",
+    webLink: "https://salinakaapp-version3.netlify.app/",
     title: "SalinakaEyeWear",
-    githubLink: "https://github.com/zhuochen777/salinakaApp",
+    githubLink: "https://github.com/zhuochen777/salinakaApp3",
     workName: "SalinakaEyeWear",
     workDesc:
       "Buying eyewear should leave you happy and good-looking, with money in your pocket. Glasses, sunglasses, and contacts—we’ve got your eyes covered.",
