@@ -1,6 +1,7 @@
 import React from "react";
 import "../../style/style.scss";
 import portrait from "../../images/portrait.png";
+import { asset } from "../../asset/asset";
 
 export default function Home() {
   return (
@@ -26,17 +27,9 @@ export default function Home() {
         </div>
         <div className="portrait">
           <div>
-            <img
-              src={portrait}
-              alt="zhuo-img"
-              className="portrait-img"
-            />
+            <img src={portrait} alt="zhuo-img" className="portrait-img" />
           </div>
-          <img
-            src="https://erisportfolio.netlify.app/static/media/circle.2c5eeaff4fd997ef8350.jpg"
-            alt="zhuo-img-bg"
-            className="portrait-bg"
-          />
+          <img src={asset.circle} alt="zhuo-img-bg" className="portrait-bg" />
         </div>
         <div className="languages">
           <div className="lang-circle">

@@ -191,6 +191,7 @@
 .home-wrapper .home .portrait {
   position: relative;
   height: 100%;
+  width: 60%;
 }
 
 .home-wrapper .home .portrait .portrait-img {
@@ -199,13 +200,14 @@
   left: 1rem;
   width: 80%;
   z-index: 2;
-  height: 100%;
+  height: 80%;
   object-fit: contain;
 }
 
 .home-wrapper .home .portrait .portrait-bg {
-  margin: 10rem 0 0 10rem;
-  opacity: .3;
+  margin: 5rem 0 0 10rem;
+  opacity: 0.3;
+  width: 80%;
 }
 
 .home-wrapper .home .languages {
