@@ -170,7 +170,51 @@ export default function Skill() {
               <Timeline>
                 <TimelineItem>
                   <TimelineOppositeContent color="text.secondary">
-                    01/2018- 09/2019
+                    6/2024 - Present
+                  </TimelineOppositeContent>
+                  <TimelineSeparator>
+                    <div className="dot-circle">
+                      <img
+                        src="https://i.pinimg.com/originals/b9/6b/f8/b96bf8680383ae47339bfea25f7e806a.gif"
+                        alt=""
+                        className="dot-circle-img"
+                      />
+                    </div>
+                    <TimelineConnector />
+                  </TimelineSeparator>
+                  <TimelineContent>
+                    <div className="company-name">Independent Projects</div>
+                    <div className="company-detail">
+                      <div className="position">Software Engineer</div>
+                      <div className="location">Santa Clara, CA</div>
+                    </div>
+                    <ul className="bullets">
+                      <li className="bullet">
+                        Delivered full-stack web applications, managing the
+                        entire software development life cycle (SDLC) from
+                        architectural design to deployment.
+                      </li>
+                      <li className="bullet">
+                        Built reusable, responsive UI components using React and Material UI, boosting development speed by 30%.
+                      </li>
+                      <li className="bullet">
+                        Optimized front-end performance with Redux Toolkit, minimizing unnecessary re-renders.
+                      </li>
+                      <li className="bullet">
+                        Streamlined development cycles by 83% by integrating third-party APIs and implementing web security best practices with Firebase Authentication.
+                      </li>
+                      <li className="bullet">
+                       Designed interactive dashboards using Recharts and Nivo to visualize datasets and enhance user feedback.
+                      </li>
+                      <li className="bullet">
+                        Enhanced database schemas to support a real-time chat module, enabling efficient contact search and chronological message sorting.
+                      </li>
+                    </ul>
+                  </TimelineContent>
+                </TimelineItem>
+                <TimelineItem>
+                  <TimelineOppositeContent color="text.secondary">
+                    6/2018- 9/2019
                   </TimelineOppositeContent>
                   <TimelineSeparator>
                     <div className="dot-circle">
@@ -186,7 +230,7 @@ export default function Skill() {
                     <div className="company-name">Cority</div>
                     <div className="company-detail">
                       <div className="position">QA Engineer</div>
-                      <div className="location">Toronto, Canada Area</div>
+                      <div className="location">Toronto, Canada</div>
                     </div>
                     <ul className="bullets">
                       <li className="bullet">
@@ -221,7 +265,7 @@ export default function Skill() {
                 </TimelineItem>
                 <TimelineItem>
                   <TimelineOppositeContent color="text.secondary">
-                    10/2023 - 12/2023
+                    12/2015 - 6/2018
                   </TimelineOppositeContent>
                   <TimelineSeparator>
                     <div className="dot-circle">
@@ -234,12 +278,10 @@ export default function Skill() {
                     <TimelineConnector />
                   </TimelineSeparator>
                   <TimelineContent>
-                    <div className="company-name">
-                      Knowledge First Financial
-                    </div>
+                    <div className="company-name">Embark Student Corp.</div>
                     <div className="company-detail">
                       <div className="position">QA Analyst</div>
-                      <div className="location">Mississauga, Canada Area</div>
+                      <div className="location">Toronto, Canada</div>
                     </div>
                     <ul className="bullets">
                       <li className="bullet">
