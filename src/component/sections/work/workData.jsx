@@ -3,16 +3,6 @@
 export const workData = [
   {
     id: 1,
-    webLink: "https://salinakaapp-version3.netlify.app/",
-    title: "SalinakaEyeWear",
-    githubLink: "https://github.com/zhuochen777/salinakaApp3",
-    workName: "SalinakaEyeWear",
-    workDesc:
-      "Buying eyewear should leave you happy and good-looking, with money in your pocket. Glasses, sunglasses, and contacts—we’ve got your eyes covered.",
-    category: ["redux", "node.js"],
-  },
-  {
-    id: 2,
     webLink: "https://sneatapp-mern.netlify.app/",
     title: "Sneat",
     githubLink: "https://github.com/zhuochen777/sneatApp",
@@ -20,6 +10,16 @@ export const workData = [
     workDesc:
       "Sneat - Material Design React Admin Dashboard Template - is the most developer friendly & highly customizable Admin Dashboard Template based on MUI v5.",
     category: ["react.js", "redux", "node.js"],
+  },
+  {
+    id: 2,
+    webLink: "https://salinakaapp-version3.netlify.app/",
+    title: "SalinakaEyeWear",
+    githubLink: "https://github.com/zhuochen777/salinakaApp3",
+    workName: "SalinakaEyeWear",
+    workDesc:
+      "Buying eyewear should leave you happy and good-looking, with money in your pocket. Glasses, sunglasses, and contacts—we’ve got your eyes covered.",
+    category: ["redux", "node.js"],
   },
   {
     id: 3,
